@@ -1,6 +1,6 @@
 本地旧
 
-old=hook函数(等待，newclosure(函数(...)
+旧=钩函数(等待，newclosure(函数(...)
 返回旧的()
 结束))
 
